@@ -80,5 +80,21 @@ h2 {
 }
 
 #sweden {
-    background-color: indianred
+    background-color: indianred;
+}
+
+#victoria {
+    background-color: azure;
+}
+
+#melbourne {
+    background-color: chocolate;
+}
+
+#sydney {
+    background-color: fuchsia;
+}
+
+#perth {
+    background-color: gold;
 }
